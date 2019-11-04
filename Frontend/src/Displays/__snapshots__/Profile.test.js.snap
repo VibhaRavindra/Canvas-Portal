@@ -1,0 +1,2991 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile renders correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Profile
+    match={
+      Object {
+        "params": Object {
+          "profileid": 10,
+        },
+      }
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <Navigation />,
+        <div
+          className="content-wrapper"
+        >
+          <div
+            className="dash-one"
+          >
+            <p
+              className="dash-header-blue"
+            >
+              <Link
+                replace={false}
+                to="/profile/undefined"
+              >
+                <p>
+                  's Profile
+                </p>
+              </Link>
+            </p>
+            <div
+              className="course-card-container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="profile-container"
+                >
+                  <div
+                    className="profile"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="fa fa-user fa-7x profile-opacity"
+                    />
+                  </div>
+                </div>
+                <div
+                  className="profile-form"
+                >
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Name :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Email :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Phone Number :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      About Me :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      City :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Country :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Company :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      School :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Hometown :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Languages (comma separated) :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Gender :
+                    </p>
+                    <p />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>,
+      ],
+      "className": "main-wrapper",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div
+            className="dash-one"
+          >
+            <p
+              className="dash-header-blue"
+            >
+              <Link
+                replace={false}
+                to="/profile/undefined"
+              >
+                <p>
+                  's Profile
+                </p>
+              </Link>
+            </p>
+            <div
+              className="course-card-container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="profile-container"
+                >
+                  <div
+                    className="profile"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="fa fa-user fa-7x profile-opacity"
+                    />
+                  </div>
+                </div>
+                <div
+                  className="profile-form"
+                >
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Name :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Email :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Phone Number :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      About Me :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      City :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Country :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Company :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      School :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Hometown :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Languages (comma separated) :
+                    </p>
+                    <p />
+                  </div>
+                  <div
+                    className="row row-style"
+                  >
+                    <p
+                      className="profile-headers"
+                    >
+                      Gender :
+                    </p>
+                    <p />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>,
+          "className": "content-wrapper",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <p
+                className="dash-header-blue"
+              >
+                <Link
+                  replace={false}
+                  to="/profile/undefined"
+                >
+                  <p>
+                    's Profile
+                  </p>
+                </Link>
+              </p>,
+              <div
+                className="course-card-container"
+              >
+                <div
+                  className="row"
+                >
+                  <div
+                    className="profile-container"
+                  >
+                    <div
+                      className="profile"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="fa fa-user fa-7x profile-opacity"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="profile-form"
+                  >
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Name :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Email :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Phone Number :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        About Me :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        City :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Country :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Company :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        School :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Hometown :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Languages (comma separated) :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Gender :
+                      </p>
+                      <p />
+                    </div>
+                  </div>
+                </div>
+              </div>,
+            ],
+            "className": "dash-one",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <Link
+                  replace={false}
+                  to="/profile/undefined"
+                >
+                  <p>
+                    's Profile
+                  </p>
+                </Link>,
+                "className": "dash-header-blue",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "children": <p>
+                    's Profile
+                  </p>,
+                  "replace": false,
+                  "to": "/profile/undefined",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      null,
+                      "'s Profile",
+                    ],
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    null,
+                    "'s Profile",
+                  ],
+                  "type": "p",
+                },
+                "type": [Function],
+              },
+              "type": "p",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <div
+                  className="row"
+                >
+                  <div
+                    className="profile-container"
+                  >
+                    <div
+                      className="profile"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="fa fa-user fa-7x profile-opacity"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="profile-form"
+                  >
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Name :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Email :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Phone Number :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        About Me :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        City :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Country :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Company :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        School :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Hometown :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Languages (comma separated) :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Gender :
+                      </p>
+                      <p />
+                    </div>
+                  </div>
+                </div>,
+                "className": "course-card-container",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <div
+                      className="profile-container"
+                    >
+                      <div
+                        className="profile"
+                      >
+                        <i
+                          aria-hidden="true"
+                          class="fa fa-user fa-7x profile-opacity"
+                        />
+                      </div>
+                    </div>,
+                    <div
+                      className="profile-form"
+                    >
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Name :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Email :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Phone Number :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          About Me :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          City :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Country :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Company :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          School :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Hometown :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Languages (comma separated) :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Gender :
+                        </p>
+                        <p />
+                      </div>
+                    </div>,
+                    null,
+                  ],
+                  "className": "row",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <div
+                        className="profile"
+                      >
+                        <i
+                          aria-hidden="true"
+                          class="fa fa-user fa-7x profile-opacity"
+                        />
+                      </div>,
+                      "className": "profile-container",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <i
+                          aria-hidden="true"
+                          class="fa fa-user fa-7x profile-opacity"
+                        />,
+                        "className": "profile",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "aria-hidden": "true",
+                          "class": "fa fa-user fa-7x profile-opacity",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "i",
+                      },
+                      "type": "div",
+                    },
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Name :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Email :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Phone Number :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            About Me :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            City :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Country :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Company :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            School :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Hometown :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Languages (comma separated) :
+                          </p>
+                          <p />
+                        </div>,
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Gender :
+                          </p>
+                          <p />
+                        </div>,
+                      ],
+                      "className": "profile-form",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              Name :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Name :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "Name :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              Email :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Email :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "Email :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              Phone Number :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Phone Number :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "Phone Number :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              About Me :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "About Me :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "About Me :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              City :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "City :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "City :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              Country :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Country :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "Country :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              Company :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Company :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "Company :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              School :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "School :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "School :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              Hometown :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Hometown :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "Hometown :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              Languages (comma separated) :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Languages (comma separated) :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "Languages (comma separated) :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <p
+                              className="profile-headers"
+                            >
+                              Gender :
+                            </p>,
+                            <p />,
+                          ],
+                          "className": "row row-style",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Gender :",
+                              "className": "profile-headers",
+                            },
+                            "ref": null,
+                            "rendered": "Gender :",
+                            "type": "p",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": null,
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "p",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  null,
+                ],
+                "type": "div",
+              },
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <Navigation />,
+          <div
+            className="content-wrapper"
+          >
+            <div
+              className="dash-one"
+            >
+              <p
+                className="dash-header-blue"
+              >
+                <Link
+                  replace={false}
+                  to="/profile/undefined"
+                >
+                  <p>
+                    's Profile
+                  </p>
+                </Link>
+              </p>
+              <div
+                className="course-card-container"
+              >
+                <div
+                  className="row"
+                >
+                  <div
+                    className="profile-container"
+                  >
+                    <div
+                      className="profile"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="fa fa-user fa-7x profile-opacity"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="profile-form"
+                  >
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Name :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Email :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Phone Number :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        About Me :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        City :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Country :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Company :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        School :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Hometown :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Languages (comma separated) :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Gender :
+                      </p>
+                      <p />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>,
+        ],
+        "className": "main-wrapper",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="dash-one"
+            >
+              <p
+                className="dash-header-blue"
+              >
+                <Link
+                  replace={false}
+                  to="/profile/undefined"
+                >
+                  <p>
+                    's Profile
+                  </p>
+                </Link>
+              </p>
+              <div
+                className="course-card-container"
+              >
+                <div
+                  className="row"
+                >
+                  <div
+                    className="profile-container"
+                  >
+                    <div
+                      className="profile"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="fa fa-user fa-7x profile-opacity"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="profile-form"
+                  >
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Name :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Email :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Phone Number :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        About Me :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        City :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Country :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Company :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        School :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Hometown :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Languages (comma separated) :
+                      </p>
+                      <p />
+                    </div>
+                    <div
+                      className="row row-style"
+                    >
+                      <p
+                        className="profile-headers"
+                      >
+                        Gender :
+                      </p>
+                      <p />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>,
+            "className": "content-wrapper",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <p
+                  className="dash-header-blue"
+                >
+                  <Link
+                    replace={false}
+                    to="/profile/undefined"
+                  >
+                    <p>
+                      's Profile
+                    </p>
+                  </Link>
+                </p>,
+                <div
+                  className="course-card-container"
+                >
+                  <div
+                    className="row"
+                  >
+                    <div
+                      className="profile-container"
+                    >
+                      <div
+                        className="profile"
+                      >
+                        <i
+                          aria-hidden="true"
+                          class="fa fa-user fa-7x profile-opacity"
+                        />
+                      </div>
+                    </div>
+                    <div
+                      className="profile-form"
+                    >
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Name :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Email :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Phone Number :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          About Me :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          City :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Country :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Company :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          School :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Hometown :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Languages (comma separated) :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Gender :
+                        </p>
+                        <p />
+                      </div>
+                    </div>
+                  </div>
+                </div>,
+              ],
+              "className": "dash-one",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <Link
+                    replace={false}
+                    to="/profile/undefined"
+                  >
+                    <p>
+                      's Profile
+                    </p>
+                  </Link>,
+                  "className": "dash-header-blue",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "children": <p>
+                      's Profile
+                    </p>,
+                    "replace": false,
+                    "to": "/profile/undefined",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        null,
+                        "'s Profile",
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      null,
+                      "'s Profile",
+                    ],
+                    "type": "p",
+                  },
+                  "type": [Function],
+                },
+                "type": "p",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <div
+                    className="row"
+                  >
+                    <div
+                      className="profile-container"
+                    >
+                      <div
+                        className="profile"
+                      >
+                        <i
+                          aria-hidden="true"
+                          class="fa fa-user fa-7x profile-opacity"
+                        />
+                      </div>
+                    </div>
+                    <div
+                      className="profile-form"
+                    >
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Name :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Email :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Phone Number :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          About Me :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          City :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Country :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Company :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          School :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Hometown :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Languages (comma separated) :
+                        </p>
+                        <p />
+                      </div>
+                      <div
+                        className="row row-style"
+                      >
+                        <p
+                          className="profile-headers"
+                        >
+                          Gender :
+                        </p>
+                        <p />
+                      </div>
+                    </div>
+                  </div>,
+                  "className": "course-card-container",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <div
+                        className="profile-container"
+                      >
+                        <div
+                          className="profile"
+                        >
+                          <i
+                            aria-hidden="true"
+                            class="fa fa-user fa-7x profile-opacity"
+                          />
+                        </div>
+                      </div>,
+                      <div
+                        className="profile-form"
+                      >
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Name :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Email :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Phone Number :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            About Me :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            City :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Country :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Company :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            School :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Hometown :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Languages (comma separated) :
+                          </p>
+                          <p />
+                        </div>
+                        <div
+                          className="row row-style"
+                        >
+                          <p
+                            className="profile-headers"
+                          >
+                            Gender :
+                          </p>
+                          <p />
+                        </div>
+                      </div>,
+                      null,
+                    ],
+                    "className": "row",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="profile"
+                        >
+                          <i
+                            aria-hidden="true"
+                            class="fa fa-user fa-7x profile-opacity"
+                          />
+                        </div>,
+                        "className": "profile-container",
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <i
+                            aria-hidden="true"
+                            class="fa fa-user fa-7x profile-opacity"
+                          />,
+                          "className": "profile",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "aria-hidden": "true",
+                            "class": "fa fa-user fa-7x profile-opacity",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "i",
+                        },
+                        "type": "div",
+                      },
+                      "type": "div",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              Name :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              Email :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              Phone Number :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              About Me :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              City :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              Country :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              Company :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              School :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              Hometown :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              Languages (comma separated) :
+                            </p>
+                            <p />
+                          </div>,
+                          <div
+                            className="row row-style"
+                          >
+                            <p
+                              className="profile-headers"
+                            >
+                              Gender :
+                            </p>
+                            <p />
+                          </div>,
+                        ],
+                        "className": "profile-form",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                Name :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Name :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "Name :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                Email :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Email :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "Email :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                Phone Number :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Phone Number :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "Phone Number :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                About Me :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "About Me :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "About Me :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                City :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "City :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "City :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                Country :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Country :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "Country :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                Company :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Company :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "Company :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                School :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "School :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "School :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                Hometown :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Hometown :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "Hometown :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                Languages (comma separated) :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Languages (comma separated) :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "Languages (comma separated) :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <p
+                                className="profile-headers"
+                              >
+                                Gender :
+                              </p>,
+                              <p />,
+                            ],
+                            "className": "row row-style",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Gender :",
+                                "className": "profile-headers",
+                              },
+                              "ref": null,
+                              "rendered": "Gender :",
+                              "type": "p",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": null,
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "p",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                    null,
+                  ],
+                  "type": "div",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+  Symbol(enzyme.__childContext__): null,
+}
+`;

@@ -1,0 +1,35 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.11.2",
+    "react": "^16.8.3",
+    "react-autocomplete": "^1.8.1",
+    "react-avatar-edit": "^0.8.2",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-bootstrap-select": "^0.14.0",
+    "react-dom": "^16.8.3",
+    "react-pdf": "^4.0.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "react-select-search": "^0.9.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3001",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
